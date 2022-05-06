@@ -420,7 +420,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			background: rgba(255, 255, 255, 0.075);
+			background: rgb(0, 0, 0);
 			border-color: #ffffff;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
